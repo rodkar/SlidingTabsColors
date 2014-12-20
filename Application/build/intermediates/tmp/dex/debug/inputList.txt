@@ -1,0 +1,4 @@
+/Users/2013_13_mbp/Documents/GoogleDrive/coding/2013_mbp_13/android/SlidingTabsColors/Application/build/intermediates/classes/debug
+/Users/2013_13_mbp/Documents/GoogleDrive/coding/2013_mbp_13/android/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-7804a0892233df2f05d84bb64dbe8fd42c2b8a18.jar
+/Users/2013_13_mbp/Documents/GoogleDrive/coding/2013_mbp_13/android/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-2901dd46455969e3873e1a8f5d2caa4ab21a442b.jar
+/Users/2013_13_mbp/Documents/GoogleDrive/coding/2013_mbp_13/android/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/classes-b7bb631bf978754d44019f3d3e128c6ee574b223.jar

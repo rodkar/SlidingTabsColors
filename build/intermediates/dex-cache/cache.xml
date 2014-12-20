@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/2013_13_mbp/Documents/GoogleDrive/coding/2013_mbp_13/android/SlidingTabsColors/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/2013_13_mbp/Documents/GoogleDrive/coding/2013_mbp_13/android/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-2901dd46455969e3873e1a8f5d2caa4ab21a442b.jar" />
+    </item>
+    <item
+        jar="/Users/2013_13_mbp/Documents/GoogleDrive/coding/2013_mbp_13/android/SlidingTabsColors/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/2013_13_mbp/Documents/GoogleDrive/coding/2013_mbp_13/android/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/classes-b7bb631bf978754d44019f3d3e128c6ee574b223.jar" />
+    </item>
+    <item
+        jar="/Users/2013_13_mbp/android-sdk/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/2013_13_mbp/Documents/GoogleDrive/coding/2013_mbp_13/android/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-7804a0892233df2f05d84bb64dbe8fd42c2b8a18.jar" />
+    </item>
+
+</items>
